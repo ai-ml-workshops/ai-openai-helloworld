@@ -1,4 +1,4 @@
-package one.codemash25.ai.openai.helloworld;
+package one.workshop.ai.openai.helloworld;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.web.bind.annotation.GetMapping;

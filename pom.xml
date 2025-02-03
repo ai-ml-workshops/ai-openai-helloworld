@@ -8,11 +8,11 @@
 		<version>3.4.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>one.codemash25</groupId>
+	<groupId>one.workshop</groupId>
 	<artifactId>ai-openai-helloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ai-openai-helloworld</name>
-	<description>Simple AI Application lab exercises at CodeMash25</description>
+	<description>Simple AI Application lab exercises</description>
 	<properties>
 		<java.version>23</java.version>
 	</properties>
