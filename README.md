@@ -29,7 +29,7 @@
 > - SPRING_AI_OPENAI_API_KEY=\<YOUR_OPENAI_API_KEY\>
 
 Run the curl command to see the result:
->`curl --get localhost:8008/ai/openai/chat`
+>`curl --get localhost:8080/ai/openai/chat`
 
 ##### Note: You can also use the HTTP client, like so:
 > http://localhost:8080/ai/openai/chat'
